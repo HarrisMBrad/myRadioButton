@@ -1,0 +1,2 @@
+rootProject.name='myRadioButton'
+include ':app'

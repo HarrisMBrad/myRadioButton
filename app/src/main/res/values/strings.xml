@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">myRadioButton</string>
+    <string name="Yes">RadioButton</string>
+    <string name="Maybe">RadioButton</string>
+    <string name="No">RadioButton</string>
+    <string name="no">No</string>
+    <string name="maybe">Maybe</string>
+    <string name="yes">Yes</string>
+    <string name="Attendend">AttendingTextView</string>
+    <string name="attending">Attending ?</string>
+</resources>
